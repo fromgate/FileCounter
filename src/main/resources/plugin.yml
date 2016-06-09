@@ -1,0 +1,6 @@
+name: FileCounter
+main: ru.nukkit.filecounter.FileCounter
+version: "0.0.1"
+author: fromgate, nukkit.ru
+api: ["1.0.0"]
+description: Open file counter
